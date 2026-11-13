@@ -1,0 +1,15 @@
+# Private Python environment created by setup.bat
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Editor folders
+.vscode/
+.idea/
+
+# Never commit keys or local data
+.env
+*.db
+config.json

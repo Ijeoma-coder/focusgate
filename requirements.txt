@@ -1,0 +1,6 @@
+psutil>=5.9
+Pillow>=10.0
+pystray>=0.19
+keyring>=24.0
+opencv-python-headless>=4.8
+sv-ttk>=2.6
